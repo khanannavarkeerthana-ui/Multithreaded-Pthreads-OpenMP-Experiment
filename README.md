@@ -116,15 +116,15 @@ Formula: `Efficiency (%) = (Speedup / Number of threads) × 100`
 
 #### Execution time
 
-!\[Execution time comparison](./graphs/execution_time_comparison.png)
+![Execution time comparison](./graphs/execution_time_comparison.png)
 
 #### Speedup
 
-!\[Speedup comparison](./graphs/speedup_comparison.png)
+![Speedup comparison](./graphs/speedup_comparison.png)
 
 #### Efficiency
 
-!\[Efficiency comparison](./graphs/efficiency_comparison.png)
+![Efficiency comparison](./graphs/efficiency_comparison.png)
 
 ## Observations
 
@@ -139,5 +139,7 @@ Formula: `Efficiency (%) = (Speedup / Number of threads) × 100`
 The experiment demonstrated thread creation, work distribution, race conditions, synchronization, and coordination with Pthreads and OpenMP. The performance measurements showed reduced execution time for the tested parallel versions compared with the sequential baseline. The results also showed that speedup is not perfectly linear and that performance depends on the workload and execution environment.
 
 ## 
+
+
 
 
