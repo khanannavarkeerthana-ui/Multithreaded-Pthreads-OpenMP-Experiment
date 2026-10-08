@@ -116,15 +116,15 @@ Formula: `Efficiency (%) = (Speedup / Number of threads) × 100`
 
 #### Execution time
 
-!\[Execution time comparison](graphs/execution\_time\_comparison.png)
+!\[Execution time comparison](./graphs/execution\_time\_comparison.png)
 
 #### Speedup
 
-!\[Speedup comparison](graphs/speedup\_comparison.png)
+!\[Speedup comparison](./graphs/speedup\_comparison.png)
 
 #### Efficiency
 
-!\[Efficiency comparison](graphs/efficiency\_comparison.png)
+!\[Efficiency comparison](./graphs/efficiency\_comparison.png)
 
 ## Observations
 
